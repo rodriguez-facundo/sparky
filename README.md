@@ -9,7 +9,7 @@ spark-master-7fc9767b48-4bqvj   1/1       Running   0          1m    <<<<<<<<<<<
 spark-worker-756d5f4d84-hvtck   1/1       Running   0          1m
 spark-worker-756d5f4d84-wzgcv   1/1       Running   0          1m
 ```
-2. kubectl -n sparky exec -it spark-master-7fc9767b48-4bqvj pyspark
+2. `kubectl -n sparky exec -it spark-master-7fc9767b48-4bqvj pyspark`
 ```
 Python 2.7.9 (default, Jun 29 2016, 13:08:31) 
 [GCC 4.9.2] on linux2
