@@ -49,5 +49,10 @@ sc.stop()
 
 ----- 
 
-Check the UI:
+# Check the UI:
 
+### A process is running 
+<img width="1674" alt="Screenshot 2019-05-08 at 5 18 14 PM" src="https://user-images.githubusercontent.com/32278395/57406191-93d97780-71b6-11e9-8f52-7df85db311b9.png">
+
+### The process finished
+<img width="1676" alt="Screenshot 2019-05-08 at 5 18 38 PM" src="https://user-images.githubusercontent.com/32278395/57406212-9b008580-71b6-11e9-9147-f3538fb70ba6.png">
