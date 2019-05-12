@@ -22,3 +22,4 @@ if __name__ == "__main__":
     
     print(f"In God we trust, all others bring data: {dict(counts)}")
     spark.stop()
+    
