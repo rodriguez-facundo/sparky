@@ -31,7 +31,7 @@ if __name__ == "__main__":
     print('HUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHUHGUHUHUHUHUHUHUHUHUHUHUHUHUHUHUH")
     print("This is the result of the operation:")
     dict(counts)
-    sc.stop()
+    spark.stop()
 
 #     -------------------------
 
